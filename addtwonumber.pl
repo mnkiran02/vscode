@@ -12,3 +12,4 @@ chomp $num2;
 
 my $sum = $num1 + $num2;
 print "Sum: $sum\n";
+print "Difference: " . ($num1 - $num2) . "\n";
